@@ -14,5 +14,6 @@ public class recursion4 {
         int n=5;
         int sol = fact(n);
         System.out.println(sol);
+        
     }
 }
